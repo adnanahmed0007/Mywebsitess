@@ -229,13 +229,14 @@ const Contact = () => {
           </div>
 
           {/* Footer */}
-          <footer className="mt-24 text-center border-t border-white/10 pt-12">
-            <p className="text-sm text-gray-500">
-              &copy; {new Date().getFullYear()} Adnan Ahmed. All rights reserved.
+          <footer className="mt-8 pt-6 border-t border-white/10 text-center">
+            <p className="text-sm text-white/40">
+              © {new Date().getFullYear()} Adnan Ahmed
             </p>
-            <p className="text-xs text-gray-600 mt-2">
+            <p className="text-xs text-white/25 mt-1">
               Designed & Built with 💜 and React
             </p>
+
           </footer>
         </div>
       </div>
