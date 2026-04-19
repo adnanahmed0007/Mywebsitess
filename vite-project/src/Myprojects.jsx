@@ -27,7 +27,7 @@ const projects = [
     description: "Life-saving platform connecting blood donors with recipients. Features emergency alerts and location-based donor search.",
     tech: "MERN Stack (MongoDB, Express, React, Node.js)",
     github: "https://github.com/adnanahmed0007/Blooddonation2.0",
-    live: "https://blooddonation2-0.vercel.app/",
+    live: "https://blooddonatio2-9.vercel.app/",
     category: "Healthcare",
     features: ["Emergency Alerts", "Donor Search", "Blood Bank Directory", "Donation History"],
     color: "from-red-500 to-rose-500"
