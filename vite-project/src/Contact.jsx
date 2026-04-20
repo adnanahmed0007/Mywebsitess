@@ -45,7 +45,7 @@ const Contact = () => {
   };
 
   const handleResumeDownload = () => {
-    window.open('https://drive.google.com/file/d/1TI0CqzIiaIp3QMA9T_PN08J8FiH7IgST/view', '_blank', 'noopener,noreferrer');
+    window.open('https://drive.google.com/file/d/1TurI2z-sBEw-6mp8Do5_2d9UfrY5h0br/view', '_blank', 'noopener,noreferrer');
   };
 
   return (
